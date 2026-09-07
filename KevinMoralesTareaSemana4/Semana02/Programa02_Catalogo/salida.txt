@@ -1,0 +1,5 @@
+$ scala Main
+BÚSQUEDA EN EL CATÁLOGO
+Productos disponibles: Laptop, Monitor, Mouse, Teclado
+Ingrese el producto que desea buscar: Monitor
+El precio de Monitor es $850.50

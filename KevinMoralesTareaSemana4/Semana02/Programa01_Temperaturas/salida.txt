@@ -1,0 +1,9 @@
+$ scala Main
+CONTROL DE TEMPERATURAS
+Temperaturas registradas: 8, 15, 22, 41, 35, 5, 40
+Ingrese la temperatura mínima segura: 10
+Ingrese la temperatura máxima segura: 40
+Temperatura fuera de rango: 8°C
+Temperatura fuera de rango: 41°C
+Temperatura fuera de rango: 5°C
+Alerta de estabilidad

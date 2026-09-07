@@ -1,0 +1,8 @@
+$ scala Main
+CONTROL DE EXISTENCIAS
+Cantidades registradas: 25, 8, 14, 3, 40, 11
+Ingrese el umbral de reposición: 15
+Cantidad 8: requiere reposición inmediata.
+Cantidad 14: requiere reposición inmediata.
+Cantidad 3: requiere reposición inmediata.
+Cantidad 11: requiere reposición inmediata.

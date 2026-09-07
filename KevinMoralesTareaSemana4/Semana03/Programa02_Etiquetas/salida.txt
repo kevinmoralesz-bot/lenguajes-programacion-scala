@@ -1,0 +1,4 @@
+$ scala Main
+LIMPIEZA DE ETIQUETAS
+Etiquetas originales:  SCALA |  Scala  |  funcional  |  utp  | IA | UTP | scala
+Etiquetas procesadas: funcional, scala, utp

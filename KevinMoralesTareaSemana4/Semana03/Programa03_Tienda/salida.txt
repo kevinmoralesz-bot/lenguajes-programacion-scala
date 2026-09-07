@@ -1,0 +1,6 @@
+$ scala Main
+REPORTE DE PRECIOS REBAJADOS
+Producto: Laptop | Precio Rebajado: $2000.00
+Producto: Monitor | Precio Rebajado: $640.00
+Producto: Teclado | Precio Rebajado: $96.00
+Precio promedio: $912.00

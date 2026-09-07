@@ -1,0 +1,6 @@
+$ scala Main
+TIENDA CON FUNCIONES DE ORDEN SUPERIOR
+Producto: Audífonos | Precio Rebajado: $120.00
+Producto: Impresora | Precio Rebajado: $520.00
+Producto: Tablet | Precio Rebajado: $720.00
+Precio promedio: $453.33

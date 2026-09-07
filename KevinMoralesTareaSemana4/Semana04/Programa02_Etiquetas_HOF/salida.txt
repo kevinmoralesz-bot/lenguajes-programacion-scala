@@ -1,0 +1,4 @@
+$ scala Main
+ETIQUETAS CON FUNCIONES DE ORDEN SUPERIOR
+Conjunto original:  Programación  |  UTP  |  scala | PF | SCALA  | programación | utp
+Cadena final: programación, scala, utp
